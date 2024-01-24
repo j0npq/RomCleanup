@@ -70,8 +70,17 @@ This project is licensed under the [GNU GPLv3 license].
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Acknowledgments
-- Mention any acknowledgments or credits for third-party libraries or tools used.
+# Acknowledgments
+
+I would like to express our gratitude to the following individuals and projects that have contributed to or inspired ROM CLEANUP:
+
+- [Lokesh Dhakar](https://github.com/lokesh) - Creator of the ASCII text generator tool used to generate the ASCII art Rom Cleanup logo. The tool is available at [ascii.today](http://ascii.today/) and [GitHub](https://github.com/lokesh/ascii-today). Licensed under the MIT license. Also, Jonathon - Designer of the "colossal" font used in the ASCII art logo.
+
+- [OpenAI](https://www.openai.com/) - The underlying language model for natural language understanding and generation, powered by ChatGPT. This project benefits from the capabilities of ChatGPT.
+
+Additionally, I want to thank the open-source community for providing valuable resources and tools that make projects like ROM CLEANUP possible.
+
+Special thanks to all the users and contributors who have provided feedback and support. Your input is greatly appreciated!
 
 ## Support
 For any issues or feedback, please [open an issue](https://github.com/j0npq/rom_cleanup/blob/main/issues).
