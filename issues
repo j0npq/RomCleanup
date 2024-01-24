@@ -1,0 +1,48 @@
+---
+name: Bug Report | Feature Request
+about: Create a bug report or suggest a new feature
+title: ''
+labels: ''
+assignees: ''
+---
+
+**Describe the Issue or Feature Request**
+
+A clear and concise description of the problem or feature request.
+
+**To Reproduce (for bugs)**
+
+Steps to reproduce the behavior:
+
+1. Step 1
+2. Step 2
+3. ...
+
+**Expected Behavior (for bugs)**
+
+A clear and concise description of what you expected to happen.
+
+**Screenshots (if applicable)**
+
+If applicable, add screenshots to help explain the issue.
+
+**Environment (please complete the following information):**
+- Operating System: [e.g., Windows 10, macOS, Linux]
+- Python Version: [e.g., Python 3.8]
+- Additional context or information that might be relevant.
+
+**Additional Information**
+
+Any additional information that may be helpful in resolving the issue.
+
+**Contributor (if applicable)**
+
+Are you submitting this issue on behalf of someone else? If yes, provide their GitHub username.
+
+---
+
+**Note:**
+- For bug reports, please use the "Bug Report" template.
+- For feature requests, please use the "Feature Request" template.
+
+Thank you for your contribution!
