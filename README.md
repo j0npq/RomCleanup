@@ -74,4 +74,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 - Mention any acknowledgments or credits for third-party libraries or tools used.
 
 ## Support
-For any issues or feedback, please [open an issue](https://github.com/your_username/rom-cleanup/issues).
+For any issues or feedback, please [open an issue](https://github.com/j0npq/rom_cleanup/blob/main/issues).
