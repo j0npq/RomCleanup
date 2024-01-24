@@ -70,7 +70,7 @@ This project is licensed under the [GNU GPLv3 license].
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-# Acknowledgments
+## Acknowledgments
 
 I would like to express our gratitude to the following individuals and projects that have contributed to or inspired ROM CLEANUP:
 
